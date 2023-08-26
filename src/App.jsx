@@ -47,6 +47,8 @@ function App() {
         
        <label className='switch'>
        <input type='checkbox' />
+       <input type='checkbox' />
+       <input type='checkbox' />
         <span className='slider'/>
        </label>
      
